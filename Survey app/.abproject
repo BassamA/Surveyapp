@@ -1,0 +1,45 @@
+{
+  "ProjectName": "Survey app",
+  "ProjectGuid": "85838559-8490-4f1d-b66d-600af7d60aa0",
+  "projectVersion": 1,
+  "AppIdentifier": "com.telerik.Surveyapp",
+  "DisplayName": "Survey app",
+  "Author": "",
+  "Description": "Survey app",
+  "BundleVersion": "1.0",
+  "AndroidVersionCode": "1",
+  "iOSDeviceFamily": [
+    "1",
+    "2"
+  ],
+  "iOSBackgroundMode": [],
+  "ProjectTypeGuids": "{070BCB52-5A75-4F8C-A973-144AF0EAFCC9}",
+  "FrameworkVersion": "3.7.0",
+  "AndroidPermissions": [
+    "android.permission.INTERNET"
+  ],
+  "DeviceOrientations": [
+    "Portrait",
+    "Landscape"
+  ],
+  "AndroidHardwareAcceleration": "false",
+  "iOSStatusBarStyle": "Default",
+  "Framework": "Cordova",
+  "WP8TileTitle": "",
+  "WP8Publisher": "",
+  "WP8Capabilities": [
+    "ID_CAP_NETWORKING",
+    "ID_CAP_WEBBROWSERCOMPONENT"
+  ],
+  "WP8Requirements": [],
+  "WP8PublisherID": "{db9957ba-ffb6-4ac4-977f-6b0d6a5efae7}",
+  "WP8ProductID": "{1722c6bb-91bc-40d8-b8f5-b157d73d1eb0}",
+  "WPSdk": "8.0",
+  "WP8PackageIdentityName": "1234Telerik.Surveyapp",
+  "WP8WindowsPublisherName": "CN=Telerik",
+  "WP8SupportedResolutions": [
+    "ID_RESOLUTION_WVGA",
+    "ID_RESOLUTION_WXGA",
+    "ID_RESOLUTION_HD720P"
+  ]
+}
